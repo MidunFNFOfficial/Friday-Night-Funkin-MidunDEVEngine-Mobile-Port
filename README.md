@@ -7,10 +7,10 @@
 
 <p align="center">
     <img src="art/CDEV-Engine-Logo.png" width="500px" />
-    <h1 align="center">Friday Night Funkin': CDEV Engine</h1>
+    <h1 align="center">Friday Night Funkin': MDEV Engine</h1>
 </p>
 
-**CDEV Engine** is a Friday Night Funkin' Engine intended to fix issues with the base game while also adding lot of features, built off **Friday Night Funkin' v0.2.7.1**.
+**MDEV Engine** is a Friday Night Funkin' Engine intended to fix issues with the base game while also adding lot of features, built off **Friday Night Funkin' v0.2.7.1**.
 
 ## DevNotes
 - **Supported Platforms**: Currently, CDEV Engine is supported only on Windows.
